@@ -1,0 +1,18 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mqtt.js",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  },
+  "devDependencies": {
+    "sass-loader": "^7.1.0",
+    "susy": "^3.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lichengz@usc.edu or musicsir@outlook.com",
+  "license": "ISC"
+}
