@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "fabric-ca-client": "1.2.0",
+        "fabric-client": "1.2.0",
+        "grpc": "^1.14.2",
+        "node-gyp": "^3.8.0",
+        "node-pre-gyp": "^0.11.0",
+        "rebuild": "^0.1.2",
+        "yamljs": "0.2.9"
+    },
+    "author": "lichengz@usc.edu or musicsir@outlook.com",
+    "license": "Apache-2.0",
+    "keywords": [
+        "Hyperledger",
+        "Fabric",
+        "Sample",
+        "Application"
+    ]
+}
